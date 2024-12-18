@@ -1,0 +1,217 @@
+.hero .px-4 img{
+    border-radius: 80px;
+}
+.hero .px-4 h1{
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  color: #FBB4A5;
+}
+
+.px-4{
+    background-color:#FCFFC1;
+}
+.hero .px-4 div p{
+  color: #FB9EC6;
+  font-weight: 400;
+}
+.resume div{
+  background-color: #FFE893;
+}
+.resume div h2{
+  color: #F72C5B;
+}
+#custom-cards > div > div:nth-child(1) > div > div{
+  background-color: #FBB4A5;
+  border-radius: 100px;
+}
+#custom-cards > div > div:nth-child(1) > div > div > h3{
+  color: #FB9EC6;
+}
+#custom-cards > div > div:nth-child(1) > div > div > h3 > a > img{
+  border-radius: 100px;
+  margin-left: 30px;
+}
+small{
+  color: black;
+}
+#custom-cards > div > div:nth-child(2) > div > div > h3 > a > img{
+  border-radius: 100px;
+  margin-left: 30px;
+}
+#custom-cards > div > div:nth-child(2) > div > div{
+  background-color: #FBB4A5;
+  border-radius: 100px;
+}
+#custom-cards > div > div:nth-child(3) > div > div > h3 > a > img{
+  border-radius: 100px;
+  margin-left: 30px;
+}
+#custom-cards > div > div:nth-child(3) > div > div{
+  background-color: #FBB4A5;
+  border-radius: 100px;
+}
+
+.project{
+  background-color: #FBB4A5;
+}
+.project .container div{
+  color: #FCFFC1;
+}
+body > section.project > section > div{
+  margin-bottom: 0px;
+}
+
+.project .album .row{
+  background-color: #FBB4A5;
+  padding-bottom: 50px;
+}
+body > section.project > div > div > div:nth-child(1) > div > img{
+  border-radius: 50px;
+ 
+}
+body > section.project > div > div > div:nth-child(1) > div{
+  border-radius: 50px;
+  background-color: #FCFFC1;
+  
+}
+body > section.project > div > div > div:nth-child(2) > div > img{
+  border-radius: 50px;
+}
+body > section.project > div > div > div:nth-child(2) > div{
+  border-radius: 50px;
+  background-color: #FCFFC1;
+  
+}
+body > section.project > div > div > div:nth-child(3) > div > img{
+  border-radius: 50px;
+}
+body > section.project > div > div > div:nth-child(3) > div{
+  border-radius: 50px;
+  background-color: #FCFFC1;
+  
+}
+body > section.project > div > div > div:nth-child(1) > div > div > p{
+  color: #66785F;
+  text-align: left;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-stretch: normal;
+}
+body > section.project > div > div > div:nth-child(2) > div > div > p{
+  color: #66785F;
+  text-align: left;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-stretch: normal;
+}
+body > section.project > div > div > div:nth-child(3) > div > div > p{
+  color: #66785F;
+  text-align: left;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-stretch: normal;
+}
+body > section.project > div > div > div:nth-child(1) > div > div > div > div > a > button{
+  background-color: #66785F;
+  color: white;
+  border-radius: 30px;
+}
+body > section.project > div > div > div:nth-child(2) > div > div > div > div > a > button{
+  background-color: #66785F;
+  color: white;
+  border-radius: 30px;
+}
+body > section.project > div > div > div:nth-child(3) > div > div > div > div > a > button{
+  background-color: #66785F;
+  color: white;
+  border-radius: 30px;
+}
+#featured-3 > div > div:nth-child(1) > div{
+  border-radius: 15px;
+  height: 50px;
+  width: 50px;
+}
+#featured-3 > div > div:nth-child(2) > div{
+  border-radius: 15px;
+  height: 50px;
+  width: 50px;
+}
+#featured-3 > div > div:nth-child(3) > div{
+  border-radius: 15px;
+  height: 50px;
+  width: 50px;
+}
+#featured-3{
+  background-color: #FB9EC6;
+}
+#featured-3 > h2{
+  color: #6A8B6C;
+}
+#featured-3 > div > div:nth-child(1) > h3{
+  color: #FCFFC1;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-stretch: normal;
+}
+#featured-3 > div > div:nth-child(2) > h3{
+  color: #FCFFC1;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-stretch: normal;
+}
+#featured-3 > div > div:nth-child(3) > h3{
+  color: #FCFFC1;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-stretch: normal;
+}
+#featured-3 > div > div:nth-child(1) > p{
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-stretch: normal;
+}
+#featured-3 > div > div:nth-child(2) > p{
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-stretch: normal;
+}
+#featured-3 > div > div:nth-child(3) > p{
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+body {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+body > section.contact > div > div > a > small > p{
+  margin-top: 20px;
+  margin-left: 65px;
+  color: white;
+}
+#featured-3 > div > div:nth-child(2) > a > div > button{
+  width: 200px;
+  margin-left: 70px;
+}
+body > nav{
+  background-color:#FFE893;
+}
+

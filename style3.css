@@ -1,0 +1,7 @@
+#carouselExampleCaptions > div.carousel-inner > div.carousel-item.active > div{
+    color: white;
+    background-color: black;
+    width: 500px;
+    margin-left: 300px;
+    border-radius: 30px;
+}
